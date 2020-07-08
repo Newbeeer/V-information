@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="162.105.162.2">
+    <serverData>
+      <paths name="162.105.162.2">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home1/xuyilun/moving_mnist" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
